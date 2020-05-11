@@ -152,6 +152,9 @@ public class JFMenuPrincipal extends JFrame {
 		JMenuItem mntmCriarAgendamento = new JMenuItem("Criar Agendamento");
 		mnAgendamentos.add(mntmCriarAgendamento);
 		
+		JMenuItem mntmConsultaFilaDe = new JMenuItem("Consulta Fila de Agendamentos");
+		mnAgendamentos.add(mntmConsultaFilaDe);
+		
 		
 	}
 
