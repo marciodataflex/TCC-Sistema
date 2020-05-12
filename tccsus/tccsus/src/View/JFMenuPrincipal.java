@@ -155,6 +155,9 @@ public class JFMenuPrincipal extends JFrame {
 		JMenuItem mntmConsultaFilaDe = new JMenuItem("Consulta Fila de Agendamentos");
 		mnAgendamentos.add(mntmConsultaFilaDe);
 		
+		JMenuItem mntmCancelaAgendamento = new JMenuItem("Cancela Agendamento");
+		mnAgendamentos.add(mntmCancelaAgendamento);
+		
 		
 	}
 
